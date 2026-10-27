@@ -1,6 +1,6 @@
 {
-  "version": "0.4.21",
-  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.21/cosow-live-0.4.21-mac-arm64.dmg",
-  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.21/cosow-live-0.4.21-mac-x64.dmg",
-  "notes": "Depth follow-ups on; Ask bar answered by coSow (Gemini key only until the server route ships)."
+  "version": "0.5.0",
+  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.0/cosow-live-0.5.0-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.0/cosow-live-0.5.0-mac-x64.dmg",
+  "notes": "coSow Live 0.5.0: a Workspace window with your deals (opens once the coSow web update is live), and the call card restyled to match"
 }
