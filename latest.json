@@ -1,6 +1,6 @@
 {
-  "version": "0.4.18",
-  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.18/cosow-live-0.4.18-mac-arm64.dmg",
-  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.18/cosow-live-0.4.18-mac-x64.dmg",
-  "notes": "Ask about this call bar (needs a Gemini key for now); Settings > Show deals."
+  "version": "0.4.19",
+  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.19/cosow-live-0.4.19-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.19/cosow-live-0.4.19-mac-x64.dmg",
+  "notes": "Setup screen: sign-in, microphone, screen recording, server and Gemini key in one place."
 }
