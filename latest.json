@@ -1,5 +1,6 @@
 {
   "version": "0.4.16",
   "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.16/cosow-live-0.4.16-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.4.16/cosow-live-0.4.16-mac-x64.dmg",
   "notes": "Settings > Server (coSow UAT or Local); default product NetSuite Existing; So far for all products."
 }
