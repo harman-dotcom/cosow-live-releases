@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
-  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.2/cosow-live-0.5.2-mac-arm64.dmg",
-  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.2/cosow-live-0.5.2-mac-x64.dmg",
-  "notes": "One predictable topic order; one detail at a time; volunteered answers captured without jumping."
+  "version": "0.5.3",
+  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.3/cosow-live-0.5.3-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.3/cosow-live-0.5.3-mac-x64.dmg",
+  "notes": "So far below the questions; Questions tab; server wording for the exact next question."
 }
