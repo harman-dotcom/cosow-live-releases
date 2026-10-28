@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.1/cosow-live-0.5.1-mac-arm64.dmg",
-  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.1/cosow-live-0.5.1-mac-x64.dmg",
-  "notes": "Held question: it moves only on Next or Skip; all 16 topics with honest states."
+  "version": "0.5.2",
+  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.2/cosow-live-0.5.2-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.2/cosow-live-0.5.2-mac-x64.dmg",
+  "notes": "One predictable topic order; one detail at a time; volunteered answers captured without jumping."
 }
