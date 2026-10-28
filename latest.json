@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
-  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.4/cosow-live-0.5.4-mac-arm64.dmg",
-  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.4/cosow-live-0.5.4-mac-x64.dmg",
-  "notes": "Resume fixed; compact card; one Questions list with the client's words; same guide for Maxio and NetSuite Greenfield."
+  "version": "0.5.5",
+  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.5/cosow-live-0.5.5-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.5/cosow-live-0.5.5-mac-x64.dmg",
+  "notes": "Ask answered by coSow only, with plain states and automatic recovery after the server deploy."
 }
