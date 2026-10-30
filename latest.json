@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.6/cosow-live-0.5.6-mac-arm64.dmg",
-  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.6/cosow-live-0.5.6-mac-x64.dmg",
-  "notes": "coSow Live 0.5.6. On Apple silicon use the arm64 DMG; the Intel build on Apple silicon now stops at launch and offers the right download. First launch: open it once, then System Settings > Privacy & Security > Open Anyway (right-click Open no longer works for unsigned apps on macOS 15.7). No keychain prompt should appear; sign in once. Fixes: the card opens in front and full size, no more collapse and expand loop, both builds ad-hoc signed, a second launch exits cleanly."
+  "version": "0.5.7",
+  "url": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.7/cosow-live-0.5.7-mac-arm64.dmg",
+  "urlX64": "https://github.com/harman-dotcom/cosow-live-releases/releases/download/v0.5.7/cosow-live-0.5.7-mac-x64.dmg",
+  "notes": "coSow Live 0.5.7. Fixes the other side not being transcribed on 0.5.6: the app now keeps one macOS identity across builds. One time: System Settings > Privacy & Security > Screen & System Audio Recording, remove every coSow Live or cosow-live entry with the minus button, open coSow Live, allow it, Quit & Reopen (the microphone asks once too). If the other side is ever not heard while listening, the card now says so within 8 seconds, with Open System Settings and Retry. On Apple silicon use the arm64 DMG; first launch is System Settings > Privacy & Security > Open Anyway."
 }
